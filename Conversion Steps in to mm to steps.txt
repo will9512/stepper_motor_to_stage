@@ -1,0 +1,10 @@
+Conversion Steps:
+
+    Convert 5mm to inches:
+    5 mm=5/25.4≈0.19685 inches5 mm=5/25.4≈0.19685 inches
+
+    Determine the number of revolutions needed:
+    Number of revolutions=0.19685 inches/0.025 inches per revolution≈7.874 revolutionsNumber of revolutions=0.19685 inches/0.025 inches per revolution≈7.874 revolutions
+
+    Convert revolutions to steps:
+    Number of steps=7.874×2048 steps per revolution≈16120 stepsNumber of steps=7.874×2048 steps per revolution≈16120 steps
